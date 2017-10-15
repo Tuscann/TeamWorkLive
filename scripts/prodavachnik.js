@@ -7,6 +7,7 @@ function startApp() {
     $("#linkHome").click(showHomeView);
     $("#linkLogin").click(showLoginView);
     $("#linkRegister").click(showRegisterView);
+    $("#linkListAds").click(listAdverts);
     $("#linkLogout").click(logoutUser);
 
     // Bind the form submit buttons
@@ -25,11 +26,13 @@ function startApp() {
             // No logged in user
             $("#linkLogin").show();
             $("#linkRegister").show();
+            $("#linkListAds").hide();
             $("#linkLogout").hide();
         } else {
             // We have logged in user
             $("#linkLogin").hide();
             $("#linkRegister").hide();
+            $("#linkListAds").show();
             $("#linkLogout").show();
         }
     }
@@ -117,3 +120,4 @@ function startApp() {
         showHomeView();
     }
 }	 
+
