@@ -1,8 +1,8 @@
 ﻿# TeamWorkLive
 
-Team Project Prodavachik ----------------- char room https://bloochat.com/e65xy
+Team Project Prodavachik  --------------------- chat room https://bloochat.com/e65xy
 
-<table border="1">
+<table style="border-style:solid; border-width:2px;" cellpadding="0" cellspacing="10">
   <tr>
     <th>Github</th>
     <th>Name</th>
