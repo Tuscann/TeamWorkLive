@@ -1,4 +1,4 @@
-# TeamWorkLive
+﻿# TeamWorkLive
 
 Team Project Prodavachik
 
@@ -27,6 +27,10 @@ Team Project Prodavachik
     <td>https://github.com/tabria</td>
     <td>Станислав Минчев</td>
     <td>minchev@bginfo.net</td>
+  </tr>
+  <tr>
+    <td>Project chat room</td>
+    <td>https://bloochat.com/e65xy</td>
   </tr>
   
 </table>
