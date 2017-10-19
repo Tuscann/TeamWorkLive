@@ -30,3 +30,6 @@ Team Project Prodavachik  --------------------- chat room https://bloochat.com/e
   </tr>
   
 </table>
+<br>
+<br>
+Last task added -> 5.2
